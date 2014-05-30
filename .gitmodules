@@ -1,6 +1,8 @@
 [submodule "yadb-project"]
 	path = yadb-project
 	url = https://github.com/mateusmedeiros/yadb-project.git
+	branch = master
 [submodule "yadb-app"]
 	path = yadb-app
 	url = https://github.com/mateusmedeiros/yadb-app.git
+	branch = master
